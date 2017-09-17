@@ -1,1 +1,4 @@
-**/
+/checks/*
+!/checks/libraries.csv
+library
+data.sqlite

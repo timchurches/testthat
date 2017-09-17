@@ -1,0 +1,10 @@
+package,old,new,delta
+testthat,1.0.2,1.0.2.9000,*
+BH,NA,1.65.0-1,*
+crayon,1.3.2,1.3.2,
+digest,0.6.12,0.6.12,
+magrittr,1.5,1.5,
+praise,1.0.0,1.0.0,
+R6,2.2.2,2.2.2,
+Rcpp,NA,0.12.12,*
+xml2,NA,1.1.1,*
