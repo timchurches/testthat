@@ -4,6 +4,7 @@ praise <- function() {
     "You rock!",
     "You are a coding rockstar!",
     "Keep up the good work.",
+    "Super!",
     ":)",
     "Woot!",
     "Way to go!",
