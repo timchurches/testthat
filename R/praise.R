@@ -7,6 +7,8 @@ praise <- function() {
     "Supa-dupa!",
     ":)",
     "Woot!",
+    'Fantabulous work'
+    
     "Way to go!",
     "Yaaaayyyyy",
     "Nice code.",
