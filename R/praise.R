@@ -9,6 +9,8 @@ praise <- function() {
     "Woot!",
     "Way to go!",
     "Nice code.",
+    "New Praise",
+    "Exceptional praise",
     praise::praise("Your tests are ${adjective}!"),
     praise::praise("${EXCLAMATION} - ${adjective} code.")
   )
